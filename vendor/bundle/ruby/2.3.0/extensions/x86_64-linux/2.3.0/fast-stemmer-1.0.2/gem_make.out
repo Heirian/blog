@@ -1,0 +1,16 @@
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/fast-stemmer-1.0.2/ext
+/usr/bin/ruby2.3 -r ./siteconf20170605-4531-1iwmnra.rb extconf.rb
+creating Makefile
+
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR=" clean
+
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR="
+compiling porter.c
+compiling porter_wrap.c
+linking shared-object stemmer.so
+
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/fast-stemmer-1.0.2/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stemmer.so ./.gem.20170605-4531-sa2qoh

@@ -1,0 +1,21 @@
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/hitimes-1.2.2/ext/hitimes/c
+/usr/bin/ruby2.3 -r ./siteconf20170605-4531-1f1zgvf.rb extconf.rb
+checking for clock_gettime() in -lrt... yes
+creating Makefile
+
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR=" clean
+
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR="
+compiling hitimes.c
+compiling hitimes_instant_clock_gettime.c
+compiling hitimes_instant_osx.c
+compiling hitimes_instant_windows.c
+compiling hitimes_interval.c
+compiling hitimes_stats.c
+linking shared-object hitimes/2.3/hitimes.so
+
+current directory: /home/heirian/Documents/mediator-master/vendor/bundle/ruby/2.3.0/gems/hitimes-1.2.2/ext/hitimes/c
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 hitimes.so ./.gem.20170605-4531-16q2l25/hitimes/2.3
