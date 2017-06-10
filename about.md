@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-# About me #
+# About me
 
 
 Hi, my name is Bruno Teófilo
