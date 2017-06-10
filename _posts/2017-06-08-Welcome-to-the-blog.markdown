@@ -6,7 +6,15 @@ categories: jekyll update
 tags: featured
 image: /assets/article_images/2017-06-08-welcome-to-the-blog/desktop.JPG
 ---
-In my very first post in this blog i'll declare a new holiday for everyone on this day. Be honored with this moment of glory. I won't let you down, guys. Be proud of me, mother. Heck, i forgot she don't speak english. Never mind.
+Hello world! So, i'm crazy about this thing here. It's so simple, but i liked so much.
+
+A blog is a nice place to develop some good behavior. Of my part, of course. Here i'll do some great stuff with code and maybe excellent ideas. What this guy talking about? Well, at this moment you problabily don't imagined or not bother to do it. Let's put together a tough puzzle. Calm down, i'll explaine.
+
+Here, at my kingdom, code is the law. With him we control storms and earthquakes. His powers are unlimited and precise. Can you see that? Can you feel? The criativy is the brick of our imagination and code is the cement.
+
+Step by step, we'll build up the walls of our worlds of features. Sounds crazy, but isn't. Focus, calm and persistence are the keys to handle that. Post by post i'll define, in the field of ideas, my mark. Starting from zero to make a good product or service.
+
+I'll see you soon, bye.
 
 
 

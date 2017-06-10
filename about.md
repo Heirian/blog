@@ -1,11 +1,8 @@
 ---
 layout: page
 permalink: /about/
+title: "About me"
 ---
-
-
-# About me
-
 
 Hi, my name is Bruno Teófilo
 
