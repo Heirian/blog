@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About
+title: "About me"
 ---
 
 ##I build things and develop lives.
