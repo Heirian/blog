@@ -3,6 +3,7 @@ layout: page
 permalink: /about/
 title: About
 ---
+
 ##I build things and develop lives.
 
 I have studied and developed many skills around product development and engineering.
