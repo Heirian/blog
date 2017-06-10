@@ -20,3 +20,5 @@ I had an unique trajectory in my academic life and I went through several areas 
 I venture into the world of writing in my free time and it helps me a lot in my creative development. Science fiction and fantasy appeal to me for so many reasons.
 The main one, I think, has to do with an incessant need for discovery. This also answers another question about my relentless desire to travel and meet different people and places.
 If you understand mbti you know that I am ENTP, then a native builder.
+
+>The Force will be with you, always.
