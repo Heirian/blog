@@ -28,10 +28,7 @@ permalink: /:title
 #used to display twitter cards
 twitter_handle: '@heiriansa'
 
-#fill in disqus shortname to use disqus
 disqus: https-heirian-github-io
-
-#google_analytics: UA-XXXXX-X
 
 # social icons and sharing options
 social:
@@ -45,20 +42,7 @@ social:
   - icon:	linkedin
     url:	https://www.linkedin.com/in/heirian/
     desc: Connect with me on Linkedin
-    share_url:
-    share_title:
-    share_link:
 
   - icon:	github
     url:	https://github.com/heirian
     desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
