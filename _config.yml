@@ -22,7 +22,7 @@ author_image: "/assets/images/imagemperfil.jpg"
 
 paginate:	5
 
-url: "https://heirian.github.io.***.***" # the base hostname & protocol for your site
+url: "https://heirian.github.io" # the base hostname & protocol for your site
 baseurl: ""
 permalink: /:title
 #used to display twitter cards
