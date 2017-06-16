@@ -19,6 +19,7 @@ cover: "/assets/images/shutterstock-programming.jpg"
 name: 'Bruno Teófilo'
 author: 'Bruno Teófilo'
 author_image: "/assets/images/imagemperfil.jpg"
+cute_frog: "/assets/images/meusapo.png"
 
 paginate:	5
 
