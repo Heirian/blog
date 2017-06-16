@@ -9,7 +9,7 @@ Hi, my name is Bruno Teófilo
 <div style="text-align:center"><img src ="/assets/images/oie_jpg.png" alt="Look that flying code" /></div>
 
 
-###### I build things and develop lives.
+###### Building things and develop lives.
 
 
 I have studied and developed many skills around product development and engineering.
