@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 exclude: [vendor]
@@ -24,7 +24,7 @@ cute_frog: "/assets/images/meusapo.png"
 paginate:	5
 
 url: "https://heirian.github.io" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "/blog"
 permalink: /:title
 #used to display twitter cards
 twitter_handle: '@heiriansa'
